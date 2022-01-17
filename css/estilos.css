@@ -1,0 +1,17 @@
+#cabeza
+{
+    color : purple;
+    text-align : center;
+    font-family: arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#cuerpo
+{
+    color: purple;
+    width: 70%;
+    padding: lem;
+    text-align: left;
+    margin: 0 auto;
+}
